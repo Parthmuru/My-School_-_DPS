@@ -1,0 +1,93 @@
+body {
+    background: lightgreen;
+    align-items: center;
+    text-align: center;
+}
+
+.line {
+    width: 80px;
+    height: 3px;
+    margin: 8px auto;
+    background-color: black;
+    border-radius: 10px;
+}
+
+img {
+    width: 300px;
+    height: 200px;
+}
+
+#campus {
+    color: white;
+}
+
+#achieve {
+    color: white;
+}
+
+#f {
+    width: 150px;
+    height: 150px;
+}
+
+.bg-primary,
+school_head {
+    border-radius: 5px;
+    margin: 10px;
+}
+
+#jee_qualifiers {
+    margin: 10px;
+}
+
+#neet_qualifiers {
+    margin: 10px;
+}
+
+.school_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.school_head i {
+    float: right;
+}
+
++ .news {
+    margin-top: 13px;
+}
+
+.news h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.news img {
+    border-radius: 25px;
+    height: 300px;
+    width: 300px;
+}
+
+.news p {
+    margin-top: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center
+}
